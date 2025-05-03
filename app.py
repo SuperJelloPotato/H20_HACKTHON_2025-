@@ -24,13 +24,13 @@ labels = {
         "title": "💧 WaterWise Home: Save Water & Money",
         "intro": "Analyze water quality, estimate usage, and find cost-effective upgrades to save water and reduce bills.",
         "tabs": {
-            "potability": "Water Potability",
+            "potability": "Water Portability",
             "usage": "Water Usage & Upgrades",
             "rebates": "Rebate Finder",
             "tips": "Conservation Tips"
         },
         "potability": {
-            "intro": "Enter water quality metrics to predict **Potability** using a trained ML model.",
+            "intro": "Enter water quality metrics to predict **Portability** using a trained ML model.",
             "predict": "🔍 Predict",
             "result": ["✅ Drinkable", "❌ Not Drinkable"],
             "chart": "📊 Input Water Quality",
